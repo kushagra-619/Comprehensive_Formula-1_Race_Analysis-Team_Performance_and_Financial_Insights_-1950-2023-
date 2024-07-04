@@ -1,32 +1,32 @@
 # Comprehensive_Formula-1_Race_Analysis-Team_Performance_and_Financial_Insights_-1950-2023
 
-Project Overview:
+## Project Overview:
 
-Objective: To analyze Formula 1 race data from 1950 to 2023, focusing on team performance and financial insights.
+## Objective: To analyze Formula 1 race data from 1950 to 2023, focusing on team performance and financial insights.
 Outcome: Uncovered significant financial gaps, illustrated the evolution of teams, and provided actionable insights through comprehensive data visualization.
 Step-by-Step Process:
 
-Data Collection:
+### Data Collection:
 Collected multiple datasets from various sources, including race results, team financials, driver statistics, and historical data.
 
-Data Cleaning and Preparation:
+## Data Cleaning and Preparation:
 
-Connecting Different Files:
+### Connecting Different Files:
 Merged multiple CSV files containing race results, team data, and financial records.
 Data Cleaning: Removed duplicates, handled missing values, and standardized data formats.
 Normalization: Normalized numerical data to ensure consistency across different datasets.
 
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
-Data Visualization in Tableau:
+### Data Visualization in Tableau:
 Created dashboards to visualize race results, team performance, and financial trends.
 Used bar charts, line graphs, and scatter plots to illustrate key metrics and patterns.
 Implemented filters and interactive elements to allow users to explore data by season, team, and driver.
 
-Statistical Analysis: Performed correlation analysis to identify relationships between team performance and financial investments.
+### Statistical Analysis: Performed correlation analysis to identify relationships between team performance and financial investments.
 
 
-Key Findings:
+## Key Findings:
 
 Performance Metrics: Identified top-performing teams and drivers across different eras.
 
@@ -45,7 +45,7 @@ Heat Maps: Created heat maps to visualize performance variability across differe
 Cluster Analysis: Applied clustering techniques to group teams and drivers based on performance metrics and financial data.
 
 
-Outcome:
+## Outcome:
 
 Comprehensive Insights: Delivered detailed insights into the dynamics of Formula 1 racing, focusing on how financial resources impact team performance.
 
@@ -54,7 +54,7 @@ Actionable Visualizations: Provided stakeholders with intuitive visualizations t
 Data-Driven Decisions: Helped teams and analysts make data-driven decisions to optimize performance and financial strategies.
 
 
-Methods Used in Tableau:
+## Methods Used in Tableau:
 
 Data Blending: Combined data from multiple sources to create unified visualizations.
 
@@ -67,7 +67,7 @@ Filters and Parameters: Implemented filters and parameters to allow users to cus
 Trend Lines and Forecasting: Utilized trend lines and forecasting features to predict future performance trends.
 
 
-Data Connection and Cleaning:
+## Data Connection and Cleaning:
 
 File Integration: Connected various data files using joins and unions in Tableau to create a seamless dataset.
 
